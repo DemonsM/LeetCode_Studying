@@ -51,7 +51,7 @@ class Trie2 {
     private final TrieNode root;
     private TrieNode node;
 
-    private static class TrieNode {
+    public static class TrieNode {
         boolean isEnd = false;
         TrieNode[] next = new TrieNode[26];
 
