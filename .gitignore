@@ -1,0 +1,9 @@
+# Project exclude paths
+/out/
+
+#Intellij idea
+.idea/
+/idea/
+*.ipr
+*.iml
+*.iws
